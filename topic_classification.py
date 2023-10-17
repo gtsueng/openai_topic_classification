@@ -1,6 +1,7 @@
 from langchain.llms import OpenAI 
 from langchain.chat_models import ChatOpenAI  
 from langchain.callbacks import get_openai_callback
+from langchain.schema.messages import HumanMessage, SystemMessage
 
 def get_content_from_file(file_path):
     """Read and return content from a file."""
@@ -20,8 +21,22 @@ prompt_file_path = "prompt.txt"
 api_key = get_content_from_file(api_key_file_path)
 prompt = get_content_from_file(prompt_file_path)
 
-llm = OpenAI(openai_api_key = api_key)
+print("===========PROMPT: ==========\n"+prompt+"\n=============\n")
+
+messages = [
+    SystemMessage(content="You're a helpful assistant"),
+    HumanMessage(content=prompt)
+]
+
+chat = ChatOpenAI(
+    model_name='gpt-3.5-turbo-16k',
+    openai_api_key = api_key
+)
+
 with get_openai_callback() as cb:
-    result = llm(prompt)
-    print(result)
+    chat.invoke(messages)
+    for chunk in chat.stream(messages):
+        print(chunk.content, end="", flush=True)
+    print("\n===========CALLBACK: ==========\n")
     print(cb)
+    print("\n=============\n")
