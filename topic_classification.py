@@ -29,7 +29,7 @@ messages = [
 ]
 
 chat = ChatOpenAI(
-    model_name='gpt-3.5-turbo-16k',
+    model_name='gpt-3.5-turbo',
     openai_api_key = api_key
 )
 
