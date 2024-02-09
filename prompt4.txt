@@ -1,0 +1,17 @@
+I also have a list of subject categories:
+
+masks
+stay at home
+social distance
+physical distance
+essential workers
+eviction restrictions
+unemployment requirement changes
+mortgage assistance
+tax-related changes
+curfew
+gathering size limitations
+gathering space limitations
+other
+
+Assign the dataset to the three most-relevant topic categories in the list above.  No explanation is needed. The suggested answers must exactly match one of the provided categories in the list above. Do not provide answers that do not match an entry in the list above, no matter how relevant it may be. 
