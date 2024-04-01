@@ -1,0 +1,6 @@
+I have an abstract associated with a scientific dataset quoted here: 
+
+"PD173074 KINOMEscan.
+The KINOMEscan assay platform is based on a competition binding assay that is run for a compound of interest against each of a panel of 317 to 456 kinases. The assay has three components: a kinase-tagged phage, a test compound, and an immobilized ligand that the compound competes with to displace the kinase. The amount of kinase bound to the immobilized ligand is determined using quantitative PCR of the DNA tag.  Results for each kinase are reported as "Percent of control", where the control is DMSO and where a 100% result means no inhibition of kinase binding to the ligand in the presence of the compound, and where low percent results mean strong inhibition. The KINOMEscan data are presented graphically on TREEspot Kinase Dendrograms (http://www.kinomescan.com/Tools---Resources/Study-Reports---Data-Analysis).  For this study, HMS LINCS investigators have graphed results for kinases classified as 35 "percent of control" (in the presence of the compound, the kinase is 35% as active for binding ligand in the presence of DMSO), 5 'percent of control' and 1 'percent of control'."
+
+Provide a list of all the techniques used to generate the above dataset. Just provide the names of the techniques. Explanations of the techniques are not needed.
