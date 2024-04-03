@@ -1,0 +1,7 @@
+- qPCR (quantitative Polymerase Chain Reaction)
+- Light microscopy
+- Antibody testing
+- Genetic analysis for Plasmodium spp. infections
+- Molecular marker analysis for drug resistance
+- G6PD deficiency testing
+- CYP 2D6 polymorphism analysis

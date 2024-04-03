@@ -1,0 +1,7 @@
+I have a description associated with a scientific dataset quoted here: 
+
+"Aeolian Saltation Data at Duck, NC - 8 Nov 2021
+Aeolian saltation data collected on the north property of the Field Research Facility (FRF) in Duck, NC associated with the passing of a Nor'Easter system. Time series data includes 1Hz measurements from a Sensit H14-LIN sensor, 1 Hz wind measurements from a horizontally mounted ZX TM doppler wind lidar sensor, and tidal measurements made from the end of the FRF pier. These time series data are provided as CSV files individually for each sensor, with headers of the CSV files indicating the variables of interest. Addititionally, a Sequoia LISST-Holo2 sensor was deployed to measure properties of the aeolian saltation layer at 10Hz. Particle grain size information exported from the HoloBatch program is additionally provided, with the raw reconstructed particle height relative to the sensor lens provided. More details regarding these measurements can be found in the following manuscript:
+Cohn, Dickhudt, and Marshall (2022). In-situ measurement of grain size characteristics within the aeolian saltation layer on a coastal beach. Earth Surface Processes and Landforms."
+
+Provide a list of all the techniques used to generate the above dataset. Just provide the names of the techniques. Explanations of the techniques are not needed

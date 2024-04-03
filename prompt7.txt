@@ -1,0 +1,34 @@
+I have a description associated with a scientific dataset quoted here: 
+
+"Asia Pacific ICEMR Cambodian Cross-sectional
+Background: In Cambodia, significant achievements have been made over the past decade in reducing malaria-related morbidity and mortality. However, transmission is endemic in 21 of 25 provinces and it is estimated that 58% of the population, or approximately 8.6 million people, continue to live in malaria at-risk areas. The incidence of clinical cases is highest in the north-eastern part of the country, with the highest risk in forest or forest fringe areas of the country, usually found along the borders. It is therefore very important to i) characterize region specific demographic and geographic determinants of (especially asymptomatic) malaria infection ii) determine the relationship between different measures of malaria infection and exposure and iii) implement malaria surveillance and control strategies using this knowledge to optimise the distribution of limited resources to detect as many infections as possible.
+
+Objectives:
+    To determine age-specific prevalence of Plasmodium spp. infections by qPCR and light microscopy 
+    To investigate individual and spatial risk factors for Plasmodium spp. infections 
+    To determine the genetic complexity of Plasmodium spp. infections within and between populations
+    To determine the prevalence of antibodies to panels P. falciparum and P. vivax antigens
+    To determine the prevalence of molecular markers of drug resistance in P. falciparum and P. vivax parasites.
+    Determine the prevalence and type of G6PD deficiency and CYP 2D6 polymorphisms
+
+Methodology: Household-based cross-sectional prevalence survey with collection of epidemiological data associated with risk of malaria and biological samples to determine current infection status.
+    Geographic Location/Study Sites: Kaev Seima District, Modulkiri Province, Cambodia
+    Dates of data collection: 14/12/2017 - 10/04/2018
+    Study Design: Cross-sectional survey
+    Eligibility Criteria: Living in a selected study household; Aged >2 years and <80 years; Resident for in the study area for >3 months; Consenting/assenting to participating in the study.
+    Data Collection:
+    Questionnaire data collection: Epidemiological information and demographic data were collected on REDCap eCRFs.
+    Biological sample collection: Biological samples consisted of 200ul capillary blood samples from finger-pricks.
+    Study Documentation: CRFs provided, data dictionaries provided, protocol as per ICEMR study.
+
+ClinEpiDB Data Integration: Data files were provided to ClinEpiDB as flat files. Administrative columns were dropped from presentation on ClinEpiDB.org. All dates were obfuscated per individual through the application of a random number algorithm that shifted dates no more than seven days to comply with the ethical conduct of human subjects research.
+
+Acknowledgements: We express gratitude to the study participants, village heads, VMWs and officials for making this study possible. We also thank the interviewers, technicians, and other study staff for their support.
+
+Financial Support: This study is part of the International Centers of Excellence for Malaria Research program “Understanding, tracking and eliminating malaria transmission in the Asia–Pacific Region”, funded by the National Institutes of Health, MD, US (grant 1U19AI129392-01) and received additional funding by NHMRC (Australia, GNT1092789). Ivo Mueller is supported by an NHMRC Principal Research Fellowship (GNT1155075). Leanne J Robinson is supported by an NHMRC Career Development Fellowship (GNT1161627). Mirco Sandfort is part of the PhD program of the doctoral school ED393 Pierre Louis de santé publique and supported by the Sorbonne Université (contract n-2695/2017). Anais Pepey is supported by the Pasteur Institute International Network PhD fellowship program 'Calmette & Yersin'.
+
+Ethics Statement: This study was approved by the National Ethics Committee for Health Research, Ministry of Health, Kingdom of Cambodia (reference 045NECHR, 239NECHR, 312NECHR) and by the Institut Pasteur Institutional Review Board (reference 2017-03). Written informed consent to participate in the study was obtained from all participants (or their parent or legal guardian).
+
+Last updated:A cross-sectional study of malaria was conducted in Cambodia. Participants 2-80 years old living in selected households and who had been living in the study area for >3 months were surveyed."
+
+Provide a list of all the techniques used to generate the above dataset. Just provide the names of the techniques. Explanations of the techniques are not needed

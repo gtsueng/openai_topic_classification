@@ -1,0 +1,17 @@
+1. Longitudinal cohort study
+2. Geographic location/study site selection
+3. Random sampling
+4. Clinical surveillance
+5. Self-referral
+6. Blood collection (finger prick)
+7. Blood collection (venous)
+8. Preparation of blood smears
+9. Preparation of dried blood spots on filter paper
+10. Isolation and cryopreservation of peripheral blood mononuclear cells
+11. Microscopy for detection of Plasmodium parasitemia
+12. Treatment of malaria according to guidelines
+13. Data file merging
+14. Data obfuscation
+15. Financial support
+16. Ethics approval
+17. Written informed consent
